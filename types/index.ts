@@ -101,7 +101,6 @@ export type Event = {
 // ====== CATEGORY PARAMS
 export type CreateCategoryParams = {
   categoryName: string
-  path: string
 }
 
 // ====== ORDER PARAMS
