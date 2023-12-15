@@ -58,29 +58,27 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Engaging 3D Floating Fox Island**: Rotate and explore using drag-and-drop or arrow keys.
+👉 **Authentication (CRUD) with Clerk:** User management through Clerk, ensuring secure and efficient authentication.
 
-👉 **Dynamic Sky Movement**: Sky adapts to Island motion, enhancing the immersive experience.
-
-👉 **Soaring 3D Bird**: Responds dynamically to camera positions, adding a lively touch.
-
-👉 **Informative Island Sections**: Each island part shares details about the individual.
-
-👉 **Comprehensive About Page**: Dive into detailed information, skills, and education.
-
-👉 **Project Showcase**: Explore a curated list of projects created by the individual.
-
-👉 **Contact Page with EmailJS Integration**: Easily send emails directly from the contact form.
-
-👉 **Interactive Fox on Contact Page**: A playful fox reacts to user interactions with the form.
-
-👉 **Seamless Animations**: Enjoy fluid and captivating visual transitions.
-
-👉 **Lofi Music Integration**: Delight in smooth music that adapts to user interactions.
-
-👉 **Responsive Design**: Optimized for a seamless experience across all devices.
-
-👉 **Aesthetic Glassmorphism and Neobrutalism Effects**: Elevate the visual appeal with modern design trends.
+👉 **Events (CRUD):** Comprehensive functionality for creating, reading, updating, and deleting events, giving users full control over event management.
+- **Create Events:** Users can effortlessly generate new events, providing essential details such as title, date, location, and any additional information.
+- **Read Events:** Seamless access to a detailed view of all events, allowing users to explore event specifics, including descriptions, schedules, and related information.
+- **Update Events:** Empowering users to modify event details dynamically, ensuring that event information remains accurate and up-to-date.
+- **Delete Events:** A straightforward process for removing events from the system, giving administrators the ability to manage and curate the platform effectively.
+        
+👉 **Related Events:** Smartly connects events that are related and displaying on the event details page, making it more engaging for users
+    
+👉 **Organized Events:** Efficient organization of events, ensuring a structured and user-friendly display for the audience, i.e., showing events created by the user on the user profile
+    
+👉 **Search & Filter:** Empowering users with a robust search and filter system, enabling them to easily find the events that match their preferences.
+    
+👉 **New Category:** Dynamic categorization allows for the seamless addition of new event categories, keeping your platform adaptable.
+    
+👉 **Checkout and Pay with Stripe:** Smooth and secure payment transactions using Stripe, enhancing user experience during the checkout process.
+    
+👉 **Event Orders:** Comprehensive order management system, providing a clear overview of all event-related transactions.
+    
+👉 **Search Orders:** Quick and efficient search functionality for orders, facilitating easy tracking and management.
 
 and many more, including code architecture and reusability 
 
